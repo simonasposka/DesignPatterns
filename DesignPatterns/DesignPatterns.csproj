@@ -1,0 +1,60 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Singleton\" />
+    <None Remove="Factory\" />
+    <None Remove="Factory\Planes\" />
+    <None Remove="Factory\factories\" />
+    <None Remove="AbstractFactory\" />
+    <None Remove="AbstractFactory\Factories\" />
+    <None Remove="AbstractFactory\UI\" />
+    <None Remove="Strategy\" />
+    <None Remove="Strategy\Units\" />
+    <None Remove="Strategy\MoveAlgorithms\" />
+    <None Remove="Observer\" />
+    <None Remove="Builder\" />
+    <None Remove="Builder\Engines\" />
+    <None Remove="Prototype\" />
+    <None Remove="Decorator\" />
+    <None Remove="Decorator\Beverages\" />
+    <None Remove="Decorator\Decorators\" />
+    <None Remove="Command\" />
+    <None Remove="Command\Commands\" />
+    <None Remove="Facade\" />
+    <None Remove="Bridge\" />
+    <None Remove="Bridge\Resources\" />
+    <None Remove="Bridge\Views\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Singleton\" />
+    <Folder Include="Factory\" />
+    <Folder Include="Factory\Planes\" />
+    <Folder Include="Factory\factories\" />
+    <Folder Include="AbstractFactory\" />
+    <Folder Include="AbstractFactory\Factories\" />
+    <Folder Include="AbstractFactory\UI\" />
+    <Folder Include="Strategy\" />
+    <Folder Include="Strategy\Units\" />
+    <Folder Include="Strategy\MoveAlgorithms\" />
+    <Folder Include="Observer\" />
+    <Folder Include="Builder\" />
+    <Folder Include="Builder\Engines\" />
+    <Folder Include="Prototype\" />
+    <Folder Include="Decorator\" />
+    <Folder Include="Decorator\Beverages\" />
+    <Folder Include="Decorator\Decorators\" />
+    <Folder Include="Command\" />
+    <Folder Include="Command\Commands\" />
+    <Folder Include="Facade\" />
+    <Folder Include="Bridge\" />
+    <Folder Include="Bridge\Resources\" />
+    <Folder Include="Bridge\Views\" />
+  </ItemGroup>
+</Project>
