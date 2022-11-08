@@ -4,7 +4,7 @@ namespace DesignPatterns.Strategy.Units
 {
     public abstract class Unit
     {
-        protected MoveStrategy? MoveStrategy { get; set; }
+        protected MoveStrategy MoveStrategy { get; set; }
 
         public Unit(MoveStrategy moveAlgorithm)
         {
