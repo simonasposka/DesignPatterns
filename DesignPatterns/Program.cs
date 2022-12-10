@@ -12,6 +12,10 @@
 // using DesignPatterns.Decorator;
 // using DesignPatterns.Command;
 // using DesignPatterns.Facade;
-using DesignPatterns.Bridge;
+//using DesignPatterns.Bridge;
 
-Main.Run();
+//Main.Run();
+
+using DesignPatterns.Kolis;
+var app = new Application();
+app.main();

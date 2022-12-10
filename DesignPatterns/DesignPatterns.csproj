@@ -31,6 +31,7 @@
     <None Remove="Bridge\" />
     <None Remove="Bridge\Resources\" />
     <None Remove="Bridge\Views\" />
+    <None Remove="Kolis\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Singleton\" />
@@ -56,5 +57,6 @@
     <Folder Include="Bridge\" />
     <Folder Include="Bridge\Resources\" />
     <Folder Include="Bridge\Views\" />
+    <Folder Include="Kolis\" />
   </ItemGroup>
 </Project>
