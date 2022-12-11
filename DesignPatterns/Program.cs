@@ -2,6 +2,10 @@
  * Uncomment single line to use pattern: 
  */
 
+// using DesignPatterns.Kolis;
+// var app = new Application();
+// app.main();
+
 // using DesignPatterns.Singleton;
 // using DesignPatterns.Factory;
 // using DesignPatterns.AbstractFactory;
@@ -12,10 +16,7 @@
 // using DesignPatterns.Decorator;
 // using DesignPatterns.Command;
 // using DesignPatterns.Facade;
-//using DesignPatterns.Bridge;
+// using DesignPatterns.Bridge;
+using DesignPatterns.State;
 
-//Main.Run();
-
-using DesignPatterns.Kolis;
-var app = new Application();
-app.main();
+Main.Run();
