@@ -19,6 +19,7 @@
 // using DesignPatterns.Bridge;
 // using DesignPatterns.State;
 // using DesignPatterns.Mediator;
-using DesignPatterns.Template;
+// using DesignPatterns.Template;
+using DesignPatterns.Iterator;
 
 Main.Run();
