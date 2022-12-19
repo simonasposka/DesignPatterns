@@ -20,6 +20,7 @@
 // using DesignPatterns.State;
 // using DesignPatterns.Mediator;
 // using DesignPatterns.Template;
-using DesignPatterns.Iterator;
+// using DesignPatterns.Iterator;
+using DesignPatterns.Composite;
 
 Main.Run();
