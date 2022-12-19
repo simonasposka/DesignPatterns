@@ -17,7 +17,8 @@
 // using DesignPatterns.Command;
 // using DesignPatterns.Facade;
 // using DesignPatterns.Bridge;
-//using DesignPatterns.State;
-using DesignPatterns.Mediator;
+// using DesignPatterns.State;
+// using DesignPatterns.Mediator;
+using DesignPatterns.Template;
 
 Main.Run();
