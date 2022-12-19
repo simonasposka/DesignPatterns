@@ -21,6 +21,7 @@
 // using DesignPatterns.Mediator;
 // using DesignPatterns.Template;
 // using DesignPatterns.Iterator;
-using DesignPatterns.Composite;
+// using DesignPatterns.Composite;
+using DesignPatterns.FlyWeight;
 
 Main.Run();
