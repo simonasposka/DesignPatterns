@@ -1,7 +1,4 @@
-﻿using DesignPatterns.Strategy.MoveAlgorithms;
-using DesignPatterns.Strategy.Units;
-
-namespace DesignPatterns.Proxy
+﻿namespace DesignPatterns.Proxy
 {
     public class Main
     {

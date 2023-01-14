@@ -26,8 +26,8 @@
 // using DesignPatterns.Iterator;
 // using DesignPatterns.Composite;
 // using DesignPatterns.FlyWeight;
-using DesignPatterns.State;
-// using DesignPatterns.Proxy;
+// using DesignPatterns.State;
+using DesignPatterns.Proxy;
 // using DesignPatterns.ChainOfResponsibility;
 // using DesignPatterns.Interpreter; // not implemented!
 // using DesignPatterns.Mediator; // TODO: Implement
