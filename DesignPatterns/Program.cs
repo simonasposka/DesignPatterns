@@ -24,9 +24,9 @@
 // K2
 // using DesignPatterns.Template; // AKA Template method
 // using DesignPatterns.Iterator;
-using DesignPatterns.Composite;
+// using DesignPatterns.Composite;
 // using DesignPatterns.FlyWeight;
-// using DesignPatterns.State; // TODO: Implement
+using DesignPatterns.State;
 // using DesignPatterns.Proxy;
 // using DesignPatterns.ChainOfResponsibility;
 // using DesignPatterns.Interpreter; // not implemented!
