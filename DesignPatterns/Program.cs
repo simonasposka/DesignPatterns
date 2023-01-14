@@ -6,6 +6,7 @@
 // var app = new Application();
 // app.main();
 
+// K1
 // using DesignPatterns.Singleton;
 // using DesignPatterns.Factory;
 // using DesignPatterns.AbstractFactory;
@@ -19,13 +20,18 @@
 // using DesignPatterns.Bridge;
 // using DesignPatterns.State;
 // using DesignPatterns.Mediator;
-// using DesignPatterns.Template;
+
+// K2
+// using DesignPatterns.Template; // AKA Template method
 // using DesignPatterns.Iterator;
-// using DesignPatterns.Composite;
+using DesignPatterns.Composite;
 // using DesignPatterns.FlyWeight;
+// using DesignPatterns.State; // TODO: Implement
 // using DesignPatterns.Proxy;
 // using DesignPatterns.ChainOfResponsibility;
 // using DesignPatterns.Interpreter; // not implemented!
-using DesignPatterns.Memento;
+// using DesignPatterns.Mediator; // TODO: Implement
+// using DesignPatterns.Memento;
+// using DesignPatterns.Visitor; // TODO: Implement
  
 Main.Run();
