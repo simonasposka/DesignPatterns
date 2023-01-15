@@ -33,7 +33,7 @@
 // using DesignPatterns.Interpreter;
 //using DesignPatterns.Mediator;
 // using DesignPatterns.MediatorRealEstateBrokerTask;
-using DesignPatterns.Memento;
-// using DesignPatterns.Visitor; // TODO: Implement
+// using DesignPatterns.Memento;
+using DesignPatterns.Visitor;
  
 Main.Run();
