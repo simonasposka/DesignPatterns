@@ -25,13 +25,14 @@
 // using DesignPatterns.Template; // AKA Template method
 // using DesignPatterns.Iterator;
 // using DesignPatterns.Composite;
+using DesignPatterns.Tasks.CompositeFileManager;
 // using DesignPatterns.FlyWeight;
 // using DesignPatterns.State;
 // using DesignPatterns.Proxy;
 // using DesignPatterns.ChainOfResponsibility;
 // using DesignPatterns.Interpreter;
 //using DesignPatterns.Mediator;
-using DesignPatterns.MediatorRealEstateBrokerTask;
+// using DesignPatterns.MediatorRealEstateBrokerTask;
 // using DesignPatterns.Memento;
 // using DesignPatterns.Visitor; // TODO: Implement
  
