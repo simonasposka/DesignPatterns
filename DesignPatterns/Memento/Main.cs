@@ -1,4 +1,5 @@
-﻿
+﻿using DesignPatterns.Memento.Example2;
+
 namespace DesignPatterns.Memento
 {
     public class Main
@@ -17,13 +18,17 @@ namespace DesignPatterns.Memento
 
         public static void Run()
         {
-            var editor = new Editor();
-            editor.Write("Hello"); // Hello
-            editor.Write(","); // ,
-            editor.Write("World"); // world
-            editor.Undo(); // World
-            editor.Undo(); // ,
-            editor.Undo(); // Hello
+            // Example 1
+            // var editor = new Editor();
+            // editor.Write("Hello"); // Hello
+            // editor.Write(","); // ,
+            // editor.Write("World"); // world
+            // editor.Undo(); // World
+            // editor.Undo(); // ,
+            // editor.Undo(); // Hello
+            
+            // Example 2
+            Example.Run();
         }
     }
 }
