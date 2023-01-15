@@ -29,8 +29,8 @@
 // using DesignPatterns.State;
 // using DesignPatterns.Proxy;
 // using DesignPatterns.ChainOfResponsibility;
-using DesignPatterns.Interpreter;
-// using DesignPatterns.Mediator; // TODO: Implement
+// using DesignPatterns.Interpreter;
+using DesignPatterns.Mediator;
 // using DesignPatterns.Memento;
 // using DesignPatterns.Visitor; // TODO: Implement
  
