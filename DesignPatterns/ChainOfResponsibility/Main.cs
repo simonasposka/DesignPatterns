@@ -1,4 +1,6 @@
-﻿namespace DesignPatterns.ChainOfResponsibility
+﻿using DesignPatterns.ChainOfResponsibility.Example2;
+
+namespace DesignPatterns.ChainOfResponsibility
 {
     public class Main
     {
@@ -17,13 +19,19 @@
 
         public static void Run()
         {
-            var database = new Database();
-            var handler = new UserExistsHandler(database)
-                .SetNextHandler(new ValidPasswordHandler(database))
-                .SetNextHandler(new ValidRoleHandler());
+            // Example 1
+            
+            // var database = new Database();
+            // var handler = new UserExistsHandler(database)
+            //     .SetNextHandler(new ValidPasswordHandler(database))
+            //     .SetNextHandler(new ValidRoleHandler());
+            //
+            // var authService = new AuthService(handler);
+            // authService.LogIn("admin_username", "asd");
+            
 
-            var authService = new AuthService(handler);
-            authService.LogIn("admin_username", "asd");
+            // Run example 2
+            Example.Run();
         }
     }
 }
