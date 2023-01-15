@@ -30,7 +30,8 @@
 // using DesignPatterns.Proxy;
 // using DesignPatterns.ChainOfResponsibility;
 // using DesignPatterns.Interpreter;
-using DesignPatterns.Mediator;
+//using DesignPatterns.Mediator;
+using DesignPatterns.MediatorRealEstateBrokerTask;
 // using DesignPatterns.Memento;
 // using DesignPatterns.Visitor; // TODO: Implement
  
